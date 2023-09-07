@@ -1,3 +1,6 @@
+<h1>
+<img src= "https://github.com/DJsaru/DJsaru/blob/main/TECH%20LOGO%20WE%20CONNECT.png"/>  
+</h1>
 
 
 <h1 align="center">Hi 👋, I'm Sarang Jaybhaye</h1>
