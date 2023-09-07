@@ -1,5 +1,5 @@
 <h1>
-<img src= "https://github.com/DJsaru/DJsaru/blob/main/TECH%20LOGO%20WE%20CONNECT.png"/>  
+<img src= "/TECH LOGO WE CONNECT.JPEG" width="100%"/>  
 </h1>
 
 <video width="320" height="240">
