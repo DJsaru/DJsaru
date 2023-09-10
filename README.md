@@ -2,10 +2,6 @@
 <img src= "/TECH LOGO WE CONNECT.JPEG" width="100%"/>  
 </h1>
 
-<video width="320" height="240">
-  <source src="" type="video/mp4">
-</video>
-
 
 <h1 align="center">Hi 👋, I'm Sarang Jaybhaye</h1>
 <h3 align="center">A passionate Software Engineer developer from India.</h3>
